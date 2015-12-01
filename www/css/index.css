@@ -1,0 +1,29 @@
+* {
+   -webkit-touch-callout: none;
+}
+.status {
+   margin-left:10px;
+}
+.xrp_balance {
+   #position: absolute;
+   #left:240px;
+   font-size: 12px;
+   font-style: italic;
+   float: right;
+   margin-right: 5px;
+}
+.ripple_address {
+   font-size: 11px;
+   font-style: italic;
+   font-weight: normal;
+   word-wrap: break-word;
+   white-space: normal;
+}
+.account_details {
+   background-color: #DDDDDD;
+   border: 1px solid;
+   font-weight: bold;
+   height: 18px;
+   width: 100%;
+   padding:5px;
+}
